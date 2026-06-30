@@ -1,0 +1,12 @@
+name: classifycnv_env
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - python=3.9
+  - cyvcf2
+  - bedtools
+prefix: /home/sagarruxki/miniconda3/envs/classifycnv_env

@@ -1,0 +1,12 @@
+name: annotsv_env
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - python=3.10
+  - bedtools
+  - bcftools
+prefix: /home/sagarruxki/miniconda3/envs/annotsv_env
