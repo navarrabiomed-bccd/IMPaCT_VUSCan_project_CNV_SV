@@ -42,8 +42,8 @@ conda env create -f envs/classifycnv.yml
 
 Detailed docs:
 
-- [general_scripts/README.md](general_scripts/README.md)
-- [general_scripts/Documentacion_algorimtos_CNVs_SVs.pdf](general_scripts/Documentacion_algorimtos_CNVs_SVs.pdf)
+- [README.md](README.md)
+- [Documentation_CNV_SV_algorithms.pdf](Documentation_CNV_SV_algorithms.pdf)
 
 Run from the general_scripts directory:
 
